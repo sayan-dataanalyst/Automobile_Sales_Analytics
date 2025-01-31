@@ -20,7 +20,7 @@
 	Insights generation
 
 
-1.	Home Page: 
+## Home Page: 
 This page reflects the information of sales revenue and quantity sold details. Highlighting insights on region/country wise sales details and year on year impact.
 KPIs’: 
 	Total revenue
@@ -33,7 +33,10 @@ Charts:
 	Country wise quantity sold
 	Selling details by channel partners 
 	YoY quantity sold
-2.	Car Details Page: 
+
+![BMW Project Page 1](https://github.com/user-attachments/assets/465e1f6d-2a32-40be-9aaf-6f90295aecf1)
+
+## Car Details Page: 
 This page reflects the information for individual car segments. Which allow us to get the insights on revenue, quantity sold and channel partner. 
 
 KPIs’: 
@@ -45,6 +48,11 @@ Charts:
 	Car sold by channel partners on individual models 
 	Model wise quantity sold and revenue details
 
-Model Page: 
+![BMW Project Page 2](https://github.com/user-attachments/assets/e6aba212-90d8-4c68-a61d-ad082c9b464f)
+
+## Model Page: 
+[[[Add description here]]]
+![Model Page](https://github.com/user-attachments/assets/438c8ed0-7526-4b02-b85f-d71ea4f463ac)
+
 
 
