@@ -1,13 +1,13 @@
-# Automobile_Sales_Analytics
-Sales data analysis
-Key objectives: 
+# Power BI Sales Analytics Project - Automobile Industry
+
+## Key objectives: 
 	Developing KPIs such as revenue, sales growth trends.
 	Enhancing sales performance tracking revenue on year to year analysis.
 	Analysing customer behaviour & preferences with identifying products demand.
 	Improve region and country wise sales analysis with comparing sales performance with revenue and car quantity sold.
 	Improve inventory forecasting & planning using the historical sales for channel partners
 
-Steps in project:
+## Steps in project:
 	Data downloaded from google.com
 	Data walkthrough
 	Data cleaning and quality check
